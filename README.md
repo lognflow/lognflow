@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Chiranth Simha!
 
-🎓 **Engineering Student**
+🎓 **Information Science Engineering Student**
 
 ---
 

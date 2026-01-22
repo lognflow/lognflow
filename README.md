@@ -1,39 +1,69 @@
-# Hi there 👋 I'm Chiranthan !
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=520&lines=Hi+there+%F0%9F%91%8B+I'm+Chiranthan;Aspiring+Software+Engineer;DSA+%7C+Full+Stack+Developer;Always+Learning+%F0%9F%9A%80" />
+</p>
 
-
+---
 
 ## 💻 Skills
 
-<div align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" style="vertical-align:middle; margin-right:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" style="vertical-align:middle; margin-right:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" style="vertical-align:middle; margin-right:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" style="vertical-align:middle; margin-right:8px;"/>
-
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42"/>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-Passionate about building and learning new things in tech. Always curious, always coding.
+💡 Passionate about **problem-solving and building real-world projects**  
+🧠 Strong interest in **DSA, Competitive Programming & Backend Systems**  
+🌱 Currently learning **Full Stack Web Development**
 
-I work on projects in JavaScript, Python, C++, and C, exploring everything from algorithms to web development and systems programming.
-
-🌱 **Currently Learning:**  
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="36" style="vertical-align:middle; margin-right:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" style="vertical-align:middle; margin-right:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="36" style="vertical-align:middle; margin-right:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36" style="vertical-align:middle; margin-right:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="36" style="vertical-align:middle; margin-right:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="36" style="vertical-align:middle; margin-right:4px;"/>
-</div>
-**Full Stack Web Development**
+### 🛠️ Tech I’m Learning
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38"/>
+</p>
 
 ---
 
-<!-- Add your projects, achievements, or social links below! -->
+## 📊 GitHub Stats
 
-<img src="https://raw.githubusercontent.com/lognflow/snk/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lognflow&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lognflow&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lognflow&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lognflow&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/lognflow/snk/output/github-contribution-grid-snake.svg)
+
+---
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>

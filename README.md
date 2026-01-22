@@ -25,11 +25,9 @@
 
 ## 🚀 About Me
 
-
-💡 I love solving problems and turning ideas into working systems.
-🧠 Strong interest in Data Structures, Algorithms & Competitive Programming.
-🌱 Currently building skills in Full Stack Web Development.
-🎯 Goal: Become a strong Software Engineer with solid fundamentals.
+💡 Passionate about **problem-solving and building real-world projects**  
+🧠 Strong interest in **DSA, Competitive Programming & Backend Systems**  
+🌱 Currently learning **Full Stack Web Development**
 
 
 ### 🛠️ Tech I’m Learning

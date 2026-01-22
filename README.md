@@ -36,4 +36,4 @@ I work on projects in JavaScript, Python, C++, and C, exploring everything from 
 
 <!-- Add your projects, achievements, or social links below! -->
 
-<img src="https://raw.githubusercontent.com/lognflow/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/lognflow/snk/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
